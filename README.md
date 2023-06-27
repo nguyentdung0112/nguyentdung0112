@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nguyentdung0112
-- 👀 I’m interested in Front-end
+- 👋 Hi, I'm NTDung
+- 👀 I’m interested in Front-end and Nodejs
 - 🌱 I’m currently learning html-css
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me fb.me/tandung0112
